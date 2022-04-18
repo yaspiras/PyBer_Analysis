@@ -32,7 +32,7 @@ The analysis of Pyber ride sharing data showed that:
      - Total Fare: $4,327.93
      - Average Fare per Ride: $34.62
      - Average Fare per Driver: $55.49
-  - Urban cities had the highest total fares even though the average fare per driver and average fare per ride is the least         expensive there.  The total number of rides in urban cities is the one the drove the total fares to be the highest of the       city types.
+ - Urban cities had the highest total fares even though the average fare per driver and average fare per ride is the least         expensive there.  The total number of rides in urban cities is the one the drove the total fares to be the highest of the       city types.
  
 ## Pyber Analysis Summary
 To lower the average fare per ride and average fare per driver, more drivers need to be available for both suburban and rural cities.  Pyber needs to advertise to entice more drivers in these two other city types so the the ratio of drivers to rides will be higher.
