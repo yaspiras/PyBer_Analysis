@@ -1,10 +1,10 @@
 # PyBer_Analysis
 ## Overview of PyBer Analysis
-The purpose of project is to analyze ride sharing data by city type namely:
+###The purpose of project is to analyze ride sharing data by city type namely:
 1. Urban
 2. Suburban
 3. Rural
-The following attributes were compared among different city types:
+###The following attributes were compared among different city types:
 1. Total Rides
 2. Total Drivers
 3. Total Fares
